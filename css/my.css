@@ -1,0 +1,349 @@
+
+.header_div
+{
+    position: relative;
+    top:5px;
+    width: 100%;
+    height: 120px;
+   /* border: 1px solid gray; */
+   background-image: linear-gradient(wheat,white);
+}
+
+.header_nested_nav_div
+{
+    position: relative;
+    top:15px;
+    width: 50%;
+    height:50px;
+    /*border: 1px solid gray; */
+    left: 340px;
+    padding-top: 30px;
+}
+.my_logo_image
+{
+     width: 300px;
+     height: 150px;
+     float: left;
+}
+
+.menu_button
+{
+    text-decoration: none;
+    background-color:rgba(8, 19,94);
+    color:white;
+    padding: 10px;
+}
+.menu_button:hover
+{
+     background-color:red;
+     color:wheat;
+}
+.myheading
+{
+   
+     padding: 5px;
+     color:lightcoral;
+}
+.slider_div
+{
+      width: 100%;
+      position: relative;
+      top:20px;
+     
+      height:350px;
+}
+
+.myheads
+{
+     margin-top: 50px;
+     color: darkblue;
+     text-align: center;
+     background-image: linear-gradient(wheat,white);
+     padding: 10px;
+}
+
+.location_div
+{
+       position:relative;
+       width: 300px;
+       left:100px;
+       height: 300px;
+      border-radius: 300px;
+       float: left;
+       margin-left: 40px;
+       
+       background-image: linear-gradient(wheat,white);
+}
+.loc_image
+{
+     width: 300px;
+     height: 300px;
+     border-radius: 300px;
+}
+
+.loc_title
+{
+      text-align: center;
+      margin-top: 10px;
+}
+.read_btn
+{
+     display: block;
+      text-align: center;
+      text-decoration: none;
+      background-color:rgba(8, 19,94);
+      color:white;
+      padding: 10px;
+}
+.read_btn:hover
+{
+      background-color: red;
+      color:white;
+}
+.left_info
+{
+     width: 400px;
+     height: 400px;
+     border: 1px solid gray;
+     position: relative;
+     top: 150px;
+     float: left; 
+     margin-left: 130px;
+     overflow: auto;
+     border: none;
+
+
+
+}
+.right_info_image
+{
+     width: 400px;
+     height: 400px;
+     border: 1px solid gray;
+     position: relative;
+     float: right;
+     top: -250px;
+     margin-left: 140px;
+     margin-right: 180px;
+     border: none;
+      
+}
+.choose_us
+{
+     text-align: center;
+      padding: 10px;
+     background-image: linear-gradient(wheat,white);
+     border-radius: 300px;
+     margin-top: 1px;
+     
+
+}
+.right_image
+{
+     height: 400px;
+     width: 400px;
+     border-radius: 10px;
+     
+}
+.choose_left
+{
+     text-align: justify;
+     /* height: 800px; */
+}
+.footer
+{
+     width: 100%;
+     height: 250px;
+     background-image: linear-gradient(wheat,white);
+     margin-top: 900px;
+}
+.qr_code
+{
+     width: 120px;
+     height: 100px;
+     border: 1px solid gray;
+     position: absolute;
+     left: 30px;
+     margin-top: 30px;
+
+
+}
+.qr_code_img
+{
+     height: 120px;
+     width: 120px;
+}
+.quick_pay
+{
+     text-align: center;
+     margin-top: 10px;
+}
+.subscribe
+{
+     width: 610px;
+     height: 100px;
+     position: absolute;
+     left: 280px;
+     margin-top: 1px;
+     top: 1520px;
+     
+}
+.textfield
+{
+     width: 250px;
+     height: 30px;
+     font-size: large;
+     border: none;
+
+
+     
+     
+}
+.button
+{
+     width: 250px;
+     padding: 5px;
+     background-color: red;
+     font-size: large;
+     color: white;
+     margin-left: 10px;
+     border: none;
+
+}
+.button:hover
+{
+     background-color: black;
+     color: wheat;
+}
+.member
+{
+     text-align: center;
+}
+.social_button
+{
+     position: relative;
+     left: 20px;
+     width: 50px;
+     top: -45px;
+     border: 1px solid gray;
+}
+.social_button_img
+{
+     height: 50px;
+     width: 50px;
+     position: relative;
+     left: 70px;
+}
+.enquiry_form
+{
+     width: 350px;
+     height: 100px;
+     position: relative;
+     float: right;
+     top: -240px;
+     
+}
+.textfields
+{
+     border: none;
+     font-size: large;
+     height: 25px;
+     margin-bottom: 10px;
+     position: relative;
+     right: -25px;
+}
+.mytextarea
+{
+     border: none;
+     margin-bottom: 10px;
+     position: relative;
+     right: -25px;
+}  
+.button_enquiry
+{
+     
+     height: 30px;
+     width: 40%;
+     top: 5px;
+     position: relative;
+     right: -60px;
+     background-color: red;
+     color: white;
+     border: none;
+
+} 
+.button_enquiry:hover
+{
+     background-color: black;
+     color: wheat;
+}
+.contact_div
+{
+     
+     position: absolute;
+     width: 40%;
+     height: 700px;
+     margin-left: 50px;
+     border: 1px solid gray;
+     margin: top 150px;
+     float: left;
+     top: 170px;
+     border: none;
+     
+
+
+}
+.contact_div2
+{
+     position: absolute;
+     width: 40%;
+     height: 700px;
+     border: 1px solid gray;
+     margin-top: 50px;
+     left: 700px;
+     border: none;
+
+}
+.label_text
+{
+     font-size: large;
+     margin-left:  10px;
+     margin-right: 30px;
+
+}
+.form_contact_div
+{
+     margin-top: 40px;
+}
+.form_text_contact
+{
+     width: 263px;
+     height: 30px;
+    position:  absolute;
+     left: 105px; 
+
+}
+.text_area
+{
+     
+     font-size: large;
+     
+}
+.contact_button
+{
+     background-color: black;
+     color: wheat;
+     padding: 10px;
+     font-size: larger;
+     position: relative;
+     left: 180px;
+
+}
+.contact_button:hover
+{
+     background-color: red;
+     color: aliceblue;
+}
+
+     
+     
